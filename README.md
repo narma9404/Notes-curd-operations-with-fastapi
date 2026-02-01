@@ -14,7 +14,7 @@ A simple Notes application backend built using FastAPI, SQLAlchemy, and SQLite w
 ---
 
 ## Project Structure
-
+```text
 notes-app/
 │
 ├── backend/
@@ -36,4 +36,5 @@ notes-app/
 │   └── utils/
 │       └── security.py      # Password hashing & verification
 │
-└── notes-app/         
+└── notes-app/
+```
